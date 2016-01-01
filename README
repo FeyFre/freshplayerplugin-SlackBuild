@@ -1,0 +1,6 @@
+freshplayerplugin (PPAPI-host NPAPI-plugin adapter)
+
+Makes installed in system PPAPI flash player plugin work inside in
+NPAPI browser(Firefox, Opera)
+
+Full info at https://github.com/i-rinat/freshplayerplugin

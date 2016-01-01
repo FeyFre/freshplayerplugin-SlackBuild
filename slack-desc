@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                 |-----handy-ruler------------------------------------------------------|
+freshplayerplugin: freshplayerplugin (PPAPI-host NPAPI-plugin adapter)
+freshplayerplugin:
+freshplayerplugin: Makes installed in system PPAPI flash player plugin work inside in
+freshplayerplugin: NPAPI browser(Firefox, Opera)
+freshplayerplugin:
+freshplayerplugin: Full info at https://github.com/i-rinat/freshplayerplugin
+freshplayerplugin:
+freshplayerplugin:
+freshplayerplugin:
+freshplayerplugin:
+freshplayerplugin:
